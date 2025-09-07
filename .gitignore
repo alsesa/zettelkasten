@@ -1,0 +1,7 @@
+/logseq/bak/**
+/logseq/.recycle/**
+/to_delete/*
+.stignore
+**/.DS_Store
+.sync/**
+logseq/.DS_Store
